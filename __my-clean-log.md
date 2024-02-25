@@ -2,7 +2,7 @@
 
 1. 00-- [finished]
 2. 01-- [finished]
-3. 02-- 
+3. 02-- [partial] see jph00files huggingface
 4. 03--
 5. 04--
 6. 05--
